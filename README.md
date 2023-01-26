@@ -10,3 +10,5 @@
 IDE는 결과 확인 및 수정 작업이 용이한 주피터 노트북(Jupyter Notebook)을 사용했다.   
 (그런데 주피터 노트북을 IDE라고 부르는게 맞는건가?)   
 (검색해보니 이런내용이 있다고 한다 https://towardsdatascience.com/jupyter-is-now-a-full-fledged-ide-c99218d33095)   
+   
+추후에는 gui를 이용해서 csv를 넣으면 바로 결과파일을 내주는 프로그램으로도 만들면 좋을 것 같다
